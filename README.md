@@ -1,8 +1,8 @@
 # AddressBook
 
-User Service
+Address Service
 ======
-### (GET) /api/user/
-### (POST) /api/user/
+### (GET) /api/address/
+### (POST) /api/address/
 ### (DELETE) /api/user/{user_id}/
 
